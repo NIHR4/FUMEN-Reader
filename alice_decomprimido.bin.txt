@@ -1,0 +1,7505 @@
+Fumen Bar #0{
+BPM = 170.000000
+ Offset = 706.000000
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 5
+ HS = 1.000000
+ }
+
+Bar #0 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #0 + Note #1{
+ Drum = 1
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #0 + Note #2{
+ Drum = 1
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #0 + Note #3{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #0 + Note #4{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #1{
+BPM = 170.000000
+ Offset = 2117.764648
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 6
+ HS = 1.000000
+ }
+
+Bar #1 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #1 + Note #1{
+ Drum = 1
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #1 + Note #2{
+ Drum = 1
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #1 + Note #3{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #1 + Note #4{
+ Drum = 1
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #1 + Note #5{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #2{
+BPM = 170.000000
+ Offset = 3529.529297
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 5
+ HS = 1.000000
+ }
+
+Bar #2 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #2 + Note #1{
+ Drum = 1
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #2 + Note #2{
+ Drum = 1
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #2 + Note #3{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #2 + Note #4{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #3{
+BPM = 170.000000
+ Offset = 4941.293945
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 8
+ HS = 1.000000
+ }
+
+Bar #3 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #3 + Note #1{
+ Drum = 1
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #3 + Note #2{
+ Drum = 1
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #3 + Note #3{
+ Drum = 4
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #3 + Note #4{
+ Drum = 1
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #3 + Note #5{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #3 + Note #6{
+ Drum = 1
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #3 + Note #7{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #4{
+BPM = 170.000000
+ Offset = 6353.058594
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 10
+ HS = 1.000000
+ }
+
+Bar #4 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #4 + Note #1{
+ Drum = 1
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #4 + Note #2{
+ Drum = 4
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #4 + Note #3{
+ Drum = 1
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #4 + Note #4{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #4 + Note #5{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #4 + Note #6{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #4 + Note #7{
+ Drum = 4
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #4 + Note #8{
+ Drum = 1
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #4 + Note #9{
+ Drum = 4
+ Offset = 1323.529419
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #5{
+BPM = 170.000000
+ Offset = 7764.823730
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 10
+ HS = 1.000000
+ }
+
+Bar #5 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #5 + Note #1{
+ Drum = 1
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #5 + Note #2{
+ Drum = 4
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #5 + Note #3{
+ Drum = 1
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #5 + Note #4{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #5 + Note #5{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #5 + Note #6{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #5 + Note #7{
+ Drum = 4
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #5 + Note #8{
+ Drum = 1
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #5 + Note #9{
+ Drum = 4
+ Offset = 1323.529419
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #6{
+BPM = 170.000000
+ Offset = 9176.587891
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 9
+ HS = 1.000000
+ }
+
+Bar #6 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #6 + Note #1{
+ Drum = 1
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #6 + Note #2{
+ Drum = 4
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #6 + Note #3{
+ Drum = 1
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #6 + Note #4{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #6 + Note #5{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #6 + Note #6{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #6 + Note #7{
+ Drum = 4
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #6 + Note #8{
+ Drum = 1
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #7{
+BPM = 170.000000
+ Offset = 10588.352539
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 11
+ HS = 1.000000
+ }
+
+Bar #7 + Note #0{
+ Drum = 8
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #7 + Note #1{
+ Drum = 7
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #7 + Note #2{
+ Drum = 8
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #7 + Note #3{
+ Drum = 7
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #7 + Note #4{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #7 + Note #5{
+ Drum = 1
+ Offset = 794.117676
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #7 + Note #6{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #7 + Note #7{
+ Drum = 1
+ Offset = 970.588257
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #7 + Note #8{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #7 + Note #9{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #7 + Note #10{
+ Drum = 4
+ Offset = 1323.529419
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #8{
+BPM = 170.000000
+ Offset = 12000.117188
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 11
+ HS = 1.000000
+ }
+
+Bar #8 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #8 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #8 + Note #2{
+ Drum = 4
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #8 + Note #3{
+ Drum = 4
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #8 + Note #4{
+ Drum = 1
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #8 + Note #5{
+ Drum = 4
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #8 + Note #6{
+ Drum = 4
+ Offset = 794.117676
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #8 + Note #7{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #8 + Note #8{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #8 + Note #9{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #8 + Note #10{
+ Drum = 4
+ Offset = 1323.529419
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #9{
+BPM = 170.000000
+ Offset = 13411.882813
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 8
+ HS = 1.000000
+ }
+
+Bar #9 + Note #0{
+ Drum = 4
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #9 + Note #1{
+ Drum = 1
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #9 + Note #2{
+ Drum = 4
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #9 + Note #3{
+ Drum = 4
+ Offset = 441.176483
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #9 + Note #4{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #9 + Note #5{
+ Drum = 7
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #9 + Note #6{
+ Drum = 7
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #9 + Note #7{
+ Drum = 8
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #10{
+BPM = 170.000000
+ Offset = 14823.647461
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 11
+ HS = 1.000000
+ }
+
+Bar #10 + Note #0{
+ Drum = 4
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #10 + Note #1{
+ Drum = 1
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #10 + Note #2{
+ Drum = 1
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #10 + Note #3{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #10 + Note #4{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #10 + Note #5{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #10 + Note #6{
+ Drum = 1
+ Offset = 794.117676
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #10 + Note #7{
+ Drum = 1
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #10 + Note #8{
+ Drum = 4
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #10 + Note #9{
+ Drum = 1
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #10 + Note #10{
+ Drum = 1
+ Offset = 1323.529419
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #11{
+BPM = 170.000000
+ Offset = 16235.412109
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 8
+ HS = 1.000000
+ }
+
+Bar #11 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #11 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #11 + Note #2{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #11 + Note #3{
+ Drum = 1
+ Offset = 441.176483
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #11 + Note #4{
+ Drum = 1
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #11 + Note #5{
+ Drum = 7
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #11 + Note #6{
+ Drum = 7
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #11 + Note #7{
+ Drum = 8
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #12{
+BPM = 170.000000
+ Offset = 17647.175781
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 11
+ HS = 1.000000
+ }
+
+Bar #12 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #12 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #12 + Note #2{
+ Drum = 4
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #12 + Note #3{
+ Drum = 4
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #12 + Note #4{
+ Drum = 1
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #12 + Note #5{
+ Drum = 4
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #12 + Note #6{
+ Drum = 4
+ Offset = 794.117676
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #12 + Note #7{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #12 + Note #8{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #12 + Note #9{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #12 + Note #10{
+ Drum = 4
+ Offset = 1323.529419
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #13{
+BPM = 170.000000
+ Offset = 19058.941406
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 8
+ HS = 1.000000
+ }
+
+Bar #13 + Note #0{
+ Drum = 4
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #13 + Note #1{
+ Drum = 1
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #13 + Note #2{
+ Drum = 4
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #13 + Note #3{
+ Drum = 4
+ Offset = 441.176483
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #13 + Note #4{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #13 + Note #5{
+ Drum = 7
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #13 + Note #6{
+ Drum = 7
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #13 + Note #7{
+ Drum = 8
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #14{
+BPM = 170.000000
+ Offset = 20470.705078
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 11
+ HS = 1.000000
+ }
+
+Bar #14 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #14 + Note #1{
+ Drum = 1
+ Offset = 88.235291
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #14 + Note #2{
+ Drum = 4
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #14 + Note #3{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #14 + Note #4{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #14 + Note #5{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #14 + Note #6{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #14 + Note #7{
+ Drum = 4
+ Offset = 970.588257
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #14 + Note #8{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #14 + Note #9{
+ Drum = 1
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #14 + Note #10{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #15{
+BPM = 170.000000
+ Offset = 21882.470703
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 12
+ HS = 1.000000
+ }
+
+Bar #15 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #15 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #15 + Note #2{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #15 + Note #3{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #15 + Note #4{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #15 + Note #5{
+ Drum = 4
+ Offset = 794.117676
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #15 + Note #6{
+ Drum = 1
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #15 + Note #7{
+ Drum = 4
+ Offset = 970.588257
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #15 + Note #8{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #15 + Note #9{
+ Drum = 4
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #15 + Note #10{
+ Drum = 1
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #15 + Note #11{
+ Drum = 4
+ Offset = 1323.529419
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #16{
+BPM = 170.000000
+ Offset = 23294.234375
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 11
+ HS = 1.000000
+ }
+
+Bar #16 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #16 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #16 + Note #2{
+ Drum = 4
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #16 + Note #3{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #16 + Note #4{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #16 + Note #5{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #16 + Note #6{
+ Drum = 1
+ Offset = 794.117676
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #16 + Note #7{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #16 + Note #8{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #16 + Note #9{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #16 + Note #10{
+ Drum = 4
+ Offset = 1323.529419
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #17{
+BPM = 170.000000
+ Offset = 24706.000000
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 8
+ HS = 1.000000
+ }
+
+Bar #17 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #17 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #17 + Note #2{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #17 + Note #3{
+ Drum = 1
+ Offset = 441.176483
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #17 + Note #4{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #17 + Note #5{
+ Drum = 7
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #17 + Note #6{
+ Drum = 8
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #17 + Note #7{
+ Drum = 7
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #18{
+BPM = 170.000000
+ Offset = 26117.765625
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 11
+ HS = 1.000000
+ }
+
+Bar #18 + Note #0{
+ Drum = 4
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #18 + Note #1{
+ Drum = 1
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #18 + Note #2{
+ Drum = 1
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #18 + Note #3{
+ Drum = 4
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #18 + Note #4{
+ Drum = 1
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #18 + Note #5{
+ Drum = 4
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #18 + Note #6{
+ Drum = 4
+ Offset = 794.117676
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #18 + Note #7{
+ Drum = 1
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #18 + Note #8{
+ Drum = 4
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #18 + Note #9{
+ Drum = 1
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #18 + Note #10{
+ Drum = 1
+ Offset = 1323.529419
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #19{
+BPM = 170.000000
+ Offset = 27529.529297
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 8
+ HS = 1.000000
+ }
+
+Bar #19 + Note #0{
+ Drum = 4
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #19 + Note #1{
+ Drum = 1
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #19 + Note #2{
+ Drum = 4
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #19 + Note #3{
+ Drum = 4
+ Offset = 441.176483
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #19 + Note #4{
+ Drum = 1
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #19 + Note #5{
+ Drum = 7
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #19 + Note #6{
+ Drum = 7
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #19 + Note #7{
+ Drum = 8
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #20{
+BPM = 170.000000
+ Offset = 28941.294922
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 11
+ HS = 1.000000
+ }
+
+Bar #20 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #20 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #20 + Note #2{
+ Drum = 4
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #20 + Note #3{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #20 + Note #4{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #20 + Note #5{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #20 + Note #6{
+ Drum = 1
+ Offset = 794.117676
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #20 + Note #7{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #20 + Note #8{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #20 + Note #9{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #20 + Note #10{
+ Drum = 4
+ Offset = 1323.529419
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #21{
+BPM = 170.000000
+ Offset = 30353.058594
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 8
+ HS = 1.000000
+ }
+
+Bar #21 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #21 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #21 + Note #2{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #21 + Note #3{
+ Drum = 1
+ Offset = 441.176483
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #21 + Note #4{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #21 + Note #5{
+ Drum = 7
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #21 + Note #6{
+ Drum = 8
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #21 + Note #7{
+ Drum = 7
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #22{
+BPM = 170.000000
+ Offset = 31764.824219
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 16
+ HS = 1.000000
+ }
+
+Bar #22 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #22 + Note #1{
+ Drum = 1
+ Offset = 88.235291
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #22 + Note #2{
+ Drum = 1
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #22 + Note #3{
+ Drum = 1
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #22 + Note #4{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #22 + Note #5{
+ Drum = 1
+ Offset = 441.176483
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #22 + Note #6{
+ Drum = 1
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #22 + Note #7{
+ Drum = 1
+ Offset = 617.647034
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #22 + Note #8{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #22 + Note #9{
+ Drum = 1
+ Offset = 794.117676
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #22 + Note #10{
+ Drum = 1
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #22 + Note #11{
+ Drum = 1
+ Offset = 970.588257
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #22 + Note #12{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #22 + Note #13{
+ Drum = 1
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #22 + Note #14{
+ Drum = 1
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #22 + Note #15{
+ Drum = 1
+ Offset = 1323.529419
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #23{
+BPM = 170.000000
+ Offset = 33176.589844
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 16
+ HS = 1.000000
+ }
+
+Bar #23 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #23 + Note #1{
+ Drum = 1
+ Offset = 88.235291
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #23 + Note #2{
+ Drum = 1
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #23 + Note #3{
+ Drum = 1
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #23 + Note #4{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #23 + Note #5{
+ Drum = 1
+ Offset = 441.176483
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #23 + Note #6{
+ Drum = 1
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #23 + Note #7{
+ Drum = 1
+ Offset = 617.647034
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #23 + Note #8{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #23 + Note #9{
+ Drum = 4
+ Offset = 794.117676
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #23 + Note #10{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #23 + Note #11{
+ Drum = 4
+ Offset = 970.588257
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #23 + Note #12{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #23 + Note #13{
+ Drum = 4
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #23 + Note #14{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #23 + Note #15{
+ Drum = 4
+ Offset = 1323.529419
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #24{
+BPM = 170.000000
+ Offset = 34588.351563
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 5
+ HS = 1.000000
+ }
+
+Bar #24 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #24 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #24 + Note #2{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #24 + Note #3{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #24 + Note #4{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #25{
+BPM = 170.000000
+ Offset = 36000.117188
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 4
+ HS = 1.000000
+ }
+
+Bar #25 + Note #0{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #25 + Note #1{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #25 + Note #2{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #25 + Note #3{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #26{
+BPM = 170.000000
+ Offset = 37411.882813
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 4
+ HS = 1.000000
+ }
+
+Bar #26 + Note #0{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #26 + Note #1{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #26 + Note #2{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #26 + Note #3{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #27{
+BPM = 170.000000
+ Offset = 38823.648438
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 7
+ HS = 1.000000
+ }
+
+Bar #27 + Note #0{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #27 + Note #1{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #27 + Note #2{
+ Drum = 4
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #27 + Note #3{
+ Drum = 1
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #27 + Note #4{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #27 + Note #5{
+ Drum = 1
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #27 + Note #6{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #28{
+BPM = 170.000000
+ Offset = 40235.410156
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 10
+ HS = 1.000000
+ }
+
+Bar #28 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #28 + Note #1{
+ Drum = 1
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #28 + Note #2{
+ Drum = 4
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #28 + Note #3{
+ Drum = 1
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #28 + Note #4{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #28 + Note #5{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #28 + Note #6{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #28 + Note #7{
+ Drum = 4
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #28 + Note #8{
+ Drum = 1
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #28 + Note #9{
+ Drum = 4
+ Offset = 1323.529419
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #29{
+BPM = 170.000000
+ Offset = 41647.175781
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 10
+ HS = 1.000000
+ }
+
+Bar #29 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #29 + Note #1{
+ Drum = 1
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #29 + Note #2{
+ Drum = 4
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #29 + Note #3{
+ Drum = 1
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #29 + Note #4{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #29 + Note #5{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #29 + Note #6{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #29 + Note #7{
+ Drum = 4
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #29 + Note #8{
+ Drum = 1
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #29 + Note #9{
+ Drum = 4
+ Offset = 1323.529419
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #30{
+BPM = 170.000000
+ Offset = 43058.941406
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 10
+ HS = 1.000000
+ }
+
+Bar #30 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #30 + Note #1{
+ Drum = 1
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #30 + Note #2{
+ Drum = 4
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #30 + Note #3{
+ Drum = 1
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #30 + Note #4{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #30 + Note #5{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #30 + Note #6{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #30 + Note #7{
+ Drum = 4
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #30 + Note #8{
+ Drum = 1
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #30 + Note #9{
+ Drum = 4
+ Offset = 1323.529419
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #31{
+BPM = 170.000000
+ Offset = 44470.707031
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 16
+ HS = 1.000000
+ }
+
+Bar #31 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #31 + Note #1{
+ Drum = 1
+ Offset = 88.235291
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #31 + Note #2{
+ Drum = 1
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #31 + Note #3{
+ Drum = 1
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #31 + Note #4{
+ Drum = 4
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #31 + Note #5{
+ Drum = 4
+ Offset = 441.176483
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #31 + Note #6{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #31 + Note #7{
+ Drum = 4
+ Offset = 617.647034
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #31 + Note #8{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #31 + Note #9{
+ Drum = 1
+ Offset = 794.117676
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #31 + Note #10{
+ Drum = 1
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #31 + Note #11{
+ Drum = 1
+ Offset = 970.588257
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #31 + Note #12{
+ Drum = 4
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #31 + Note #13{
+ Drum = 4
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #31 + Note #14{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #31 + Note #15{
+ Drum = 4
+ Offset = 1323.529419
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #32{
+BPM = 170.000000
+ Offset = 45882.468750
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 10
+ HS = 1.000000
+ }
+
+Bar #32 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #32 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #32 + Note #2{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #32 + Note #3{
+ Drum = 1
+ Offset = 441.176483
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #32 + Note #4{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #32 + Note #5{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #32 + Note #6{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #32 + Note #7{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #32 + Note #8{
+ Drum = 1
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #32 + Note #9{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #33{
+BPM = 170.000000
+ Offset = 47294.234375
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 11
+ HS = 1.000000
+ }
+
+Bar #33 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #33 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #33 + Note #2{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #33 + Note #3{
+ Drum = 1
+ Offset = 441.176483
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #33 + Note #4{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #33 + Note #5{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #33 + Note #6{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #33 + Note #7{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #33 + Note #8{
+ Drum = 1
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #33 + Note #9{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #33 + Note #10{
+ Drum = 4
+ Offset = 1323.529419
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #34{
+BPM = 170.000000
+ Offset = 48706.000000
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 10
+ HS = 1.000000
+ }
+
+Bar #34 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #34 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #34 + Note #2{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #34 + Note #3{
+ Drum = 1
+ Offset = 441.176483
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #34 + Note #4{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #34 + Note #5{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #34 + Note #6{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #34 + Note #7{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #34 + Note #8{
+ Drum = 1
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #34 + Note #9{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #35{
+BPM = 170.000000
+ Offset = 50117.765625
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 6
+ HS = 1.000000
+ }
+
+Bar #35 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #35 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #35 + Note #2{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #35 + Note #3{
+ Drum = 1
+ Offset = 441.176483
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #35 + Note #4{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #35 + Note #5{
+ Drum = 6
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 470.588226
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #36{
+BPM = 170.000000
+ Offset = 51529.531250
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 10
+ HS = 1.000000
+ }
+
+Bar #36 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #36 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #36 + Note #2{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #36 + Note #3{
+ Drum = 1
+ Offset = 441.176483
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #36 + Note #4{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #36 + Note #5{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #36 + Note #6{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #36 + Note #7{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #36 + Note #8{
+ Drum = 1
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #36 + Note #9{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #37{
+BPM = 170.000000
+ Offset = 52941.292969
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 11
+ HS = 1.000000
+ }
+
+Bar #37 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #37 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #37 + Note #2{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #37 + Note #3{
+ Drum = 1
+ Offset = 441.176483
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #37 + Note #4{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #37 + Note #5{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #37 + Note #6{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #37 + Note #7{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #37 + Note #8{
+ Drum = 1
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #37 + Note #9{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #37 + Note #10{
+ Drum = 4
+ Offset = 1323.529419
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #38{
+BPM = 170.000000
+ Offset = 54353.058594
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 10
+ HS = 1.000000
+ }
+
+Bar #38 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #38 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #38 + Note #2{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #38 + Note #3{
+ Drum = 1
+ Offset = 441.176483
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #38 + Note #4{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #38 + Note #5{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #38 + Note #6{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #38 + Note #7{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #38 + Note #8{
+ Drum = 1
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #38 + Note #9{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #39{
+BPM = 170.000000
+ Offset = 55764.824219
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 6
+ HS = 1.000000
+ }
+
+Bar #39 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #39 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #39 + Note #2{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #39 + Note #3{
+ Drum = 1
+ Offset = 441.176483
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #39 + Note #4{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #39 + Note #5{
+ Drum = 6
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 470.588226
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #40{
+BPM = 170.000000
+ Offset = 57176.589844
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 12
+ HS = 1.000000
+ }
+
+Bar #40 + Note #0{
+ Drum = 4
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #40 + Note #1{
+ Drum = 4
+ Offset = 88.235291
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #40 + Note #2{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #40 + Note #3{
+ Drum = 4
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #40 + Note #4{
+ Drum = 4
+ Offset = 441.176483
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #40 + Note #5{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #40 + Note #6{
+ Drum = 4
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #40 + Note #7{
+ Drum = 4
+ Offset = 794.117676
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #40 + Note #8{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #40 + Note #9{
+ Drum = 4
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #40 + Note #10{
+ Drum = 4
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #40 + Note #11{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #41{
+BPM = 170.000000
+ Offset = 58588.351563
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 12
+ HS = 1.000000
+ }
+
+Bar #41 + Note #0{
+ Drum = 4
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #41 + Note #1{
+ Drum = 4
+ Offset = 88.235291
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #41 + Note #2{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #41 + Note #3{
+ Drum = 4
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #41 + Note #4{
+ Drum = 4
+ Offset = 441.176483
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #41 + Note #5{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #41 + Note #6{
+ Drum = 4
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #41 + Note #7{
+ Drum = 4
+ Offset = 794.117676
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #41 + Note #8{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #41 + Note #9{
+ Drum = 4
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #41 + Note #10{
+ Drum = 4
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #41 + Note #11{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #42{
+BPM = 170.000000
+ Offset = 60000.117188
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 12
+ HS = 1.000000
+ }
+
+Bar #42 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #42 + Note #1{
+ Drum = 4
+ Offset = 88.235291
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #42 + Note #2{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #42 + Note #3{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #42 + Note #4{
+ Drum = 4
+ Offset = 441.176483
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #42 + Note #5{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #42 + Note #6{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #42 + Note #7{
+ Drum = 4
+ Offset = 794.117676
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #42 + Note #8{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #42 + Note #9{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #42 + Note #10{
+ Drum = 4
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #42 + Note #11{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #43{
+BPM = 170.000000
+ Offset = 61411.882813
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 12
+ HS = 1.000000
+ }
+
+Bar #43 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #43 + Note #1{
+ Drum = 4
+ Offset = 88.235291
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #43 + Note #2{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #43 + Note #3{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #43 + Note #4{
+ Drum = 4
+ Offset = 441.176483
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #43 + Note #5{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #43 + Note #6{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #43 + Note #7{
+ Drum = 4
+ Offset = 794.117676
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #43 + Note #8{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #43 + Note #9{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #43 + Note #10{
+ Drum = 4
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #43 + Note #11{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #44{
+BPM = 170.000000
+ Offset = 62823.648438
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 12
+ HS = 1.000000
+ }
+
+Bar #44 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #44 + Note #1{
+ Drum = 1
+ Offset = 88.235291
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #44 + Note #2{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #44 + Note #3{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #44 + Note #4{
+ Drum = 1
+ Offset = 441.176483
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #44 + Note #5{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #44 + Note #6{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #44 + Note #7{
+ Drum = 1
+ Offset = 794.117676
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #44 + Note #8{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #44 + Note #9{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #44 + Note #10{
+ Drum = 1
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #44 + Note #11{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #45{
+BPM = 170.000000
+ Offset = 64235.410156
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 12
+ HS = 1.000000
+ }
+
+Bar #45 + Note #0{
+ Drum = 4
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #45 + Note #1{
+ Drum = 4
+ Offset = 88.235291
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #45 + Note #2{
+ Drum = 1
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #45 + Note #3{
+ Drum = 4
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #45 + Note #4{
+ Drum = 4
+ Offset = 441.176483
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #45 + Note #5{
+ Drum = 1
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #45 + Note #6{
+ Drum = 4
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #45 + Note #7{
+ Drum = 4
+ Offset = 794.117676
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #45 + Note #8{
+ Drum = 1
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #45 + Note #9{
+ Drum = 4
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #45 + Note #10{
+ Drum = 4
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #45 + Note #11{
+ Drum = 1
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #46{
+BPM = 170.000000
+ Offset = 65647.179688
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 14
+ HS = 1.000000
+ }
+
+Bar #46 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #46 + Note #1{
+ Drum = 1
+ Offset = 88.235291
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #46 + Note #2{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #46 + Note #3{
+ Drum = 4
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #46 + Note #4{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #46 + Note #5{
+ Drum = 1
+ Offset = 441.176483
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #46 + Note #6{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #46 + Note #7{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #46 + Note #8{
+ Drum = 4
+ Offset = 794.117676
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #46 + Note #9{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #46 + Note #10{
+ Drum = 1
+ Offset = 970.588257
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #46 + Note #11{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #46 + Note #12{
+ Drum = 4
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #46 + Note #13{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #47{
+BPM = 170.000000
+ Offset = 67058.937500
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 16
+ HS = 1.000000
+ }
+
+Bar #47 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #47 + Note #1{
+ Drum = 1
+ Offset = 88.235291
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #47 + Note #2{
+ Drum = 1
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #47 + Note #3{
+ Drum = 4
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #47 + Note #4{
+ Drum = 4
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #47 + Note #5{
+ Drum = 4
+ Offset = 441.176483
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #47 + Note #6{
+ Drum = 1
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #47 + Note #7{
+ Drum = 1
+ Offset = 617.647034
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #47 + Note #8{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #47 + Note #9{
+ Drum = 4
+ Offset = 794.117676
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #47 + Note #10{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #47 + Note #11{
+ Drum = 4
+ Offset = 970.588257
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #47 + Note #12{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #47 + Note #13{
+ Drum = 1
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #47 + Note #14{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #47 + Note #15{
+ Drum = 4
+ Offset = 1323.529419
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #48{
+BPM = 170.000000
+ Offset = 68470.703125
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 10
+ HS = 1.000000
+ }
+
+Bar #48 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #48 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #48 + Note #2{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #48 + Note #3{
+ Drum = 4
+ Offset = 441.176483
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #48 + Note #4{
+ Drum = 1
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #48 + Note #5{
+ Drum = 4
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #48 + Note #6{
+ Drum = 1
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #48 + Note #7{
+ Drum = 4
+ Offset = 970.588257
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #48 + Note #8{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #48 + Note #9{
+ Drum = 4
+ Offset = 1323.529419
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #49{
+BPM = 170.000000
+ Offset = 69882.468750
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 9
+ HS = 1.000000
+ }
+
+Bar #49 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #49 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #49 + Note #2{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #49 + Note #3{
+ Drum = 4
+ Offset = 441.176483
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #49 + Note #4{
+ Drum = 1
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #49 + Note #5{
+ Drum = 4
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #49 + Note #6{
+ Drum = 1
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #49 + Note #7{
+ Drum = 4
+ Offset = 970.588257
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #49 + Note #8{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #50{
+BPM = 170.000000
+ Offset = 71294.234375
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 5
+ HS = 1.000000
+ }
+
+Bar #50 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #50 + Note #1{
+ Drum = 8
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #50 + Note #2{
+ Drum = 7
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #50 + Note #3{
+ Drum = 7
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #50 + Note #4{
+ Drum = 8
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #51{
+BPM = 170.000000
+ Offset = 72706.000000
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 6
+ HS = 1.000000
+ }
+
+Bar #51 + Note #0{
+ Drum = 7
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #51 + Note #1{
+ Drum = 7
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #51 + Note #2{
+ Drum = 8
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #51 + Note #3{
+ Drum = 4
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #51 + Note #4{
+ Drum = 1
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #51 + Note #5{
+ Drum = 1
+ Offset = 1323.529419
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #52{
+BPM = 170.000000
+ Offset = 74117.765625
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 10
+ HS = 1.000000
+ }
+
+Bar #52 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #52 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #52 + Note #2{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #52 + Note #3{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #52 + Note #4{
+ Drum = 4
+ Offset = 617.647034
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #52 + Note #5{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #52 + Note #6{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #52 + Note #7{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #52 + Note #8{
+ Drum = 1
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #52 + Note #9{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #53{
+BPM = 170.000000
+ Offset = 75529.531250
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 10
+ HS = 1.000000
+ }
+
+Bar #53 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #53 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #53 + Note #2{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #53 + Note #3{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #53 + Note #4{
+ Drum = 4
+ Offset = 617.647034
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #53 + Note #5{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #53 + Note #6{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #53 + Note #7{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #53 + Note #8{
+ Drum = 1
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #53 + Note #9{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #54{
+BPM = 170.000000
+ Offset = 76941.296875
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 8
+ HS = 1.000000
+ }
+
+Bar #54 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #54 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #54 + Note #2{
+ Drum = 4
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #54 + Note #3{
+ Drum = 1
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #54 + Note #4{
+ Drum = 4
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #54 + Note #5{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #54 + Note #6{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #54 + Note #7{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #55{
+BPM = 170.000000
+ Offset = 78353.062500
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 9
+ HS = 1.000000
+ }
+
+Bar #55 + Note #0{
+ Drum = 4
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #55 + Note #1{
+ Drum = 1
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #55 + Note #2{
+ Drum = 1
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #55 + Note #3{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #55 + Note #4{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #55 + Note #5{
+ Drum = 1
+ Offset = 970.588257
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #55 + Note #6{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #55 + Note #7{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #55 + Note #8{
+ Drum = 4
+ Offset = 1323.529419
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #56{
+BPM = 170.000000
+ Offset = 79764.820313
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 11
+ HS = 1.000000
+ }
+
+Bar #56 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #56 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #56 + Note #2{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #56 + Note #3{
+ Drum = 4
+ Offset = 441.176483
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #56 + Note #4{
+ Drum = 1
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #56 + Note #5{
+ Drum = 4
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #56 + Note #6{
+ Drum = 4
+ Offset = 794.117676
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #56 + Note #7{
+ Drum = 1
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #56 + Note #8{
+ Drum = 4
+ Offset = 970.588257
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #56 + Note #9{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #56 + Note #10{
+ Drum = 4
+ Offset = 1323.529419
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #57{
+BPM = 170.000000
+ Offset = 81176.585938
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 10
+ HS = 1.000000
+ }
+
+Bar #57 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #57 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #57 + Note #2{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #57 + Note #3{
+ Drum = 4
+ Offset = 441.176483
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #57 + Note #4{
+ Drum = 1
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #57 + Note #5{
+ Drum = 4
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #57 + Note #6{
+ Drum = 4
+ Offset = 794.117676
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #57 + Note #7{
+ Drum = 1
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #57 + Note #8{
+ Drum = 4
+ Offset = 970.588257
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #57 + Note #9{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #58{
+BPM = 170.000000
+ Offset = 82588.351563
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 5
+ HS = 1.000000
+ }
+
+Bar #58 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #58 + Note #1{
+ Drum = 8
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #58 + Note #2{
+ Drum = 7
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #58 + Note #3{
+ Drum = 7
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #58 + Note #4{
+ Drum = 8
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #59{
+BPM = 170.000000
+ Offset = 84000.117188
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 9
+ HS = 1.000000
+ }
+
+Bar #59 + Note #0{
+ Drum = 1
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #59 + Note #1{
+ Drum = 4
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #59 + Note #2{
+ Drum = 4
+ Offset = 441.176483
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #59 + Note #3{
+ Drum = 1
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #59 + Note #4{
+ Drum = 4
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #59 + Note #5{
+ Drum = 1
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #59 + Note #6{
+ Drum = 4
+ Offset = 970.588257
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #59 + Note #7{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #59 + Note #8{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #60{
+BPM = 170.000000
+ Offset = 85411.882813
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 11
+ HS = 1.000000
+ }
+
+Bar #60 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #60 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #60 + Note #2{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #60 + Note #3{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #60 + Note #4{
+ Drum = 1
+ Offset = 617.647034
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #60 + Note #5{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #60 + Note #6{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #60 + Note #7{
+ Drum = 4
+ Offset = 970.588257
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #60 + Note #8{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #60 + Note #9{
+ Drum = 1
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #60 + Note #10{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #61{
+BPM = 170.000000
+ Offset = 86823.648438
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 11
+ HS = 1.000000
+ }
+
+Bar #61 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #61 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #61 + Note #2{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #61 + Note #3{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #61 + Note #4{
+ Drum = 4
+ Offset = 617.647034
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #61 + Note #5{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #61 + Note #6{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #61 + Note #7{
+ Drum = 1
+ Offset = 970.588257
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #61 + Note #8{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #61 + Note #9{
+ Drum = 1
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #61 + Note #10{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #62{
+BPM = 170.000000
+ Offset = 88235.414063
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 1
+ HS = 1.000000
+ }
+
+Bar #62 + Note #0{
+ Drum = 6
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 1205.881958
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #63{
+BPM = 170.000000
+ Offset = 89647.179688
+ GogoTime = 0
+ ShowBarline = 1
+ TotalNotes = 16
+ HS = 1.000000
+ }
+
+Bar #63 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #63 + Note #1{
+ Drum = 1
+ Offset = 88.235291
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #63 + Note #2{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #63 + Note #3{
+ Drum = 4
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #63 + Note #4{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #63 + Note #5{
+ Drum = 4
+ Offset = 441.176483
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #63 + Note #6{
+ Drum = 1
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #63 + Note #7{
+ Drum = 4
+ Offset = 617.647034
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #63 + Note #8{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #63 + Note #9{
+ Drum = 1
+ Offset = 794.117676
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #63 + Note #10{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #63 + Note #11{
+ Drum = 4
+ Offset = 970.588257
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #63 + Note #12{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #63 + Note #13{
+ Drum = 4
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #63 + Note #14{
+ Drum = 1
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #63 + Note #15{
+ Drum = 1
+ Offset = 1323.529419
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #64{
+BPM = 170.000000
+ Offset = 91058.937500
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 9
+ HS = 1.000000
+ }
+
+Bar #64 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #64 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #64 + Note #2{
+ Drum = 4
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #64 + Note #3{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #64 + Note #4{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #64 + Note #5{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #64 + Note #6{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #64 + Note #7{
+ Drum = 1
+ Offset = 970.588257
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #64 + Note #8{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #65{
+BPM = 170.000000
+ Offset = 92470.703125
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 13
+ HS = 1.000000
+ }
+
+Bar #65 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #65 + Note #1{
+ Drum = 1
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #65 + Note #2{
+ Drum = 1
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #65 + Note #3{
+ Drum = 4
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #65 + Note #4{
+ Drum = 4
+ Offset = 441.176483
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #65 + Note #5{
+ Drum = 1
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #65 + Note #6{
+ Drum = 1
+ Offset = 617.647034
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #65 + Note #7{
+ Drum = 4
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #65 + Note #8{
+ Drum = 4
+ Offset = 794.117676
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #65 + Note #9{
+ Drum = 1
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #65 + Note #10{
+ Drum = 4
+ Offset = 970.588257
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #65 + Note #11{
+ Drum = 4
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #65 + Note #12{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #66{
+BPM = 170.000000
+ Offset = 93882.468750
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 9
+ HS = 1.000000
+ }
+
+Bar #66 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #66 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #66 + Note #2{
+ Drum = 4
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #66 + Note #3{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #66 + Note #4{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #66 + Note #5{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #66 + Note #6{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #66 + Note #7{
+ Drum = 4
+ Offset = 970.588257
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #66 + Note #8{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #67{
+BPM = 170.000000
+ Offset = 95294.234375
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 15
+ HS = 1.000000
+ }
+
+Bar #67 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #67 + Note #1{
+ Drum = 1
+ Offset = 88.235291
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #67 + Note #2{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #67 + Note #3{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #67 + Note #4{
+ Drum = 1
+ Offset = 441.176483
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #67 + Note #5{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #67 + Note #6{
+ Drum = 4
+ Offset = 617.647034
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #67 + Note #7{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #67 + Note #8{
+ Drum = 4
+ Offset = 794.117676
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #67 + Note #9{
+ Drum = 1
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #67 + Note #10{
+ Drum = 4
+ Offset = 970.588257
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #67 + Note #11{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #67 + Note #12{
+ Drum = 1
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #67 + Note #13{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #67 + Note #14{
+ Drum = 4
+ Offset = 1323.529419
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #68{
+BPM = 170.000000
+ Offset = 96706.000000
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 9
+ HS = 1.000000
+ }
+
+Bar #68 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #68 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #68 + Note #2{
+ Drum = 4
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #68 + Note #3{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #68 + Note #4{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #68 + Note #5{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #68 + Note #6{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #68 + Note #7{
+ Drum = 1
+ Offset = 970.588257
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #68 + Note #8{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #69{
+BPM = 170.000000
+ Offset = 98117.765625
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 11
+ HS = 1.000000
+ }
+
+Bar #69 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #69 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #69 + Note #2{
+ Drum = 4
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #69 + Note #3{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #69 + Note #4{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #69 + Note #5{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #69 + Note #6{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #69 + Note #7{
+ Drum = 4
+ Offset = 970.588257
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #69 + Note #8{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #69 + Note #9{
+ Drum = 1
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #69 + Note #10{
+ Drum = 1
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #70{
+BPM = 170.000000
+ Offset = 99529.531250
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 10
+ HS = 1.000000
+ }
+
+Bar #70 + Note #0{
+ Drum = 4
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #70 + Note #1{
+ Drum = 1
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #70 + Note #2{
+ Drum = 1
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #70 + Note #3{
+ Drum = 4
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #70 + Note #4{
+ Drum = 1
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #70 + Note #5{
+ Drum = 4
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #70 + Note #6{
+ Drum = 1
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #70 + Note #7{
+ Drum = 1
+ Offset = 970.588257
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #70 + Note #8{
+ Drum = 4
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #70 + Note #9{
+ Drum = 1
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #71{
+BPM = 170.000000
+ Offset = 100941.296875
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 13
+ HS = 1.000000
+ }
+
+Bar #71 + Note #0{
+ Drum = 4
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #71 + Note #1{
+ Drum = 1
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #71 + Note #2{
+ Drum = 1
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #71 + Note #3{
+ Drum = 4
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #71 + Note #4{
+ Drum = 1
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #71 + Note #5{
+ Drum = 1
+ Offset = 617.647034
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #71 + Note #6{
+ Drum = 4
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #71 + Note #7{
+ Drum = 4
+ Offset = 794.117676
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #71 + Note #8{
+ Drum = 1
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #71 + Note #9{
+ Drum = 4
+ Offset = 970.588257
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #71 + Note #10{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #71 + Note #11{
+ Drum = 1
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #71 + Note #12{
+ Drum = 1
+ Offset = 1323.529419
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #72{
+BPM = 170.000000
+ Offset = 102353.062500
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 9
+ HS = 1.000000
+ }
+
+Bar #72 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #72 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #72 + Note #2{
+ Drum = 4
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #72 + Note #3{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #72 + Note #4{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #72 + Note #5{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #72 + Note #6{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #72 + Note #7{
+ Drum = 1
+ Offset = 970.588257
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #72 + Note #8{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #73{
+BPM = 170.000000
+ Offset = 103764.820313
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 13
+ HS = 1.000000
+ }
+
+Bar #73 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #73 + Note #1{
+ Drum = 1
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #73 + Note #2{
+ Drum = 1
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #73 + Note #3{
+ Drum = 4
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #73 + Note #4{
+ Drum = 4
+ Offset = 441.176483
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #73 + Note #5{
+ Drum = 1
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #73 + Note #6{
+ Drum = 1
+ Offset = 617.647034
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #73 + Note #7{
+ Drum = 4
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #73 + Note #8{
+ Drum = 4
+ Offset = 794.117676
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #73 + Note #9{
+ Drum = 1
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #73 + Note #10{
+ Drum = 4
+ Offset = 970.588257
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #73 + Note #11{
+ Drum = 4
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #73 + Note #12{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #74{
+BPM = 170.000000
+ Offset = 105176.585938
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 9
+ HS = 1.000000
+ }
+
+Bar #74 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #74 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #74 + Note #2{
+ Drum = 4
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #74 + Note #3{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #74 + Note #4{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #74 + Note #5{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #74 + Note #6{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #74 + Note #7{
+ Drum = 4
+ Offset = 970.588257
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #74 + Note #8{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #75{
+BPM = 170.000000
+ Offset = 106588.351563
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 15
+ HS = 1.000000
+ }
+
+Bar #75 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #75 + Note #1{
+ Drum = 1
+ Offset = 88.235291
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #75 + Note #2{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #75 + Note #3{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #75 + Note #4{
+ Drum = 1
+ Offset = 441.176483
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #75 + Note #5{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #75 + Note #6{
+ Drum = 4
+ Offset = 617.647034
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #75 + Note #7{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #75 + Note #8{
+ Drum = 4
+ Offset = 794.117676
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #75 + Note #9{
+ Drum = 1
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #75 + Note #10{
+ Drum = 4
+ Offset = 970.588257
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #75 + Note #11{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #75 + Note #12{
+ Drum = 1
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #75 + Note #13{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #75 + Note #14{
+ Drum = 4
+ Offset = 1323.529419
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #76{
+BPM = 170.000000
+ Offset = 108000.117188
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 9
+ HS = 1.000000
+ }
+
+Bar #76 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #76 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #76 + Note #2{
+ Drum = 4
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #76 + Note #3{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #76 + Note #4{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #76 + Note #5{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #76 + Note #6{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #76 + Note #7{
+ Drum = 1
+ Offset = 970.588257
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #76 + Note #8{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #77{
+BPM = 170.000000
+ Offset = 109411.882813
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 11
+ HS = 1.000000
+ }
+
+Bar #77 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #77 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #77 + Note #2{
+ Drum = 4
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #77 + Note #3{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #77 + Note #4{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #77 + Note #5{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #77 + Note #6{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #77 + Note #7{
+ Drum = 4
+ Offset = 970.588257
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #77 + Note #8{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #77 + Note #9{
+ Drum = 1
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #77 + Note #10{
+ Drum = 1
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #78{
+BPM = 170.000000
+ Offset = 110823.648438
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 10
+ HS = 1.000000
+ }
+
+Bar #78 + Note #0{
+ Drum = 4
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #78 + Note #1{
+ Drum = 1
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #78 + Note #2{
+ Drum = 1
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #78 + Note #3{
+ Drum = 4
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #78 + Note #4{
+ Drum = 1
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #78 + Note #5{
+ Drum = 4
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #78 + Note #6{
+ Drum = 1
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #78 + Note #7{
+ Drum = 1
+ Offset = 970.588257
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #78 + Note #8{
+ Drum = 4
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #78 + Note #9{
+ Drum = 1
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #79{
+BPM = 170.000000
+ Offset = 112235.414063
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 13
+ HS = 1.000000
+ }
+
+Bar #79 + Note #0{
+ Drum = 4
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #79 + Note #1{
+ Drum = 1
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #79 + Note #2{
+ Drum = 1
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #79 + Note #3{
+ Drum = 4
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #79 + Note #4{
+ Drum = 1
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #79 + Note #5{
+ Drum = 1
+ Offset = 617.647034
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #79 + Note #6{
+ Drum = 4
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #79 + Note #7{
+ Drum = 4
+ Offset = 794.117676
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #79 + Note #8{
+ Drum = 1
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #79 + Note #9{
+ Drum = 4
+ Offset = 970.588257
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #79 + Note #10{
+ Drum = 4
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #79 + Note #11{
+ Drum = 1
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #79 + Note #12{
+ Drum = 4
+ Offset = 1323.529419
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #80{
+BPM = 170.000000
+ Offset = 113647.179688
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 5
+ HS = 1.000000
+ }
+
+Bar #80 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #80 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #80 + Note #2{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #80 + Note #3{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #80 + Note #4{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #81{
+BPM = 170.000000
+ Offset = 115058.937500
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 13
+ HS = 1.000000
+ }
+
+Bar #81 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #81 + Note #1{
+ Drum = 4
+ Offset = 176.470581
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #81 + Note #2{
+ Drum = 4
+ Offset = 264.705872
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #81 + Note #3{
+ Drum = 1
+ Offset = 352.941162
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #81 + Note #4{
+ Drum = 4
+ Offset = 529.411743
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #81 + Note #5{
+ Drum = 4
+ Offset = 617.647034
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #81 + Note #6{
+ Drum = 1
+ Offset = 705.882324
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #81 + Note #7{
+ Drum = 4
+ Offset = 882.352966
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #81 + Note #8{
+ Drum = 4
+ Offset = 970.588257
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #81 + Note #9{
+ Drum = 1
+ Offset = 1058.823486
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #81 + Note #10{
+ Drum = 1
+ Offset = 1147.058838
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #81 + Note #11{
+ Drum = 4
+ Offset = 1235.294067
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+Bar #81 + Note #12{
+ Drum = 4
+ Offset = 1323.529419
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #82{
+BPM = 170.000000
+ Offset = 116470.703125
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 1
+ HS = 1.000000
+ }
+
+Bar #82 + Note #0{
+ Drum = 1
+ Offset = 0.000000
+ InitialItem = 390
+ PointDistribution = 390
+ DrumrollDuration = 0.000000
+ };
+
+====END-OF-BAR===
+
+Fumen Bar #83{
+BPM = 170.000000
+ Offset = 117882.468750
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 0
+ HS = 1.000000
+ }
+
+====END-OF-BAR===
+
+Fumen Bar #84{
+BPM = 170.000000
+ Offset = 119294.234375
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 0
+ HS = 1.000000
+ }
+
+====END-OF-BAR===
+
+Fumen Bar #85{
+BPM = 170.000000
+ Offset = 120706.000000
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 0
+ HS = 1.000000
+ }
+
+====END-OF-BAR===
+
+Fumen Bar #86{
+BPM = 170.000000
+ Offset = 122117.765625
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 0
+ HS = 1.000000
+ }
+
+====END-OF-BAR===
+
+Fumen Bar #87{
+BPM = 170.000000
+ Offset = 123529.531250
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 0
+ HS = 1.000000
+ }
+
+====END-OF-BAR===
+
+Fumen Bar #88{
+BPM = 170.000000
+ Offset = 124941.296875
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 0
+ HS = 1.000000
+ }
+
+====END-OF-BAR===
+
+Fumen Bar #89{
+BPM = 170.000000
+ Offset = 126353.062500
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 0
+ HS = 1.000000
+ }
+
+====END-OF-BAR===
+
+Fumen Bar #90{
+BPM = 170.000000
+ Offset = 129176.585938
+ GogoTime = 1
+ ShowBarline = 1
+ TotalNotes = 0
+ HS = 1.000000
+ }
+
+====END-OF-BAR===
+
