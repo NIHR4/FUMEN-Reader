@@ -1,5 +1,5 @@
 #pragma once
-//iFreilicht, https://stackoverflow.com/questions/2342162/stdstring-formatting-like-sprintf
+//iFreilicht, https://stackoverflow.com/a/26221725/10999204
 #include <string>
 #include <memory>
 #include <stdexcept>
