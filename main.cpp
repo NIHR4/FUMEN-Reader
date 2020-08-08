@@ -7,24 +7,16 @@
 
 int main(int argc, char** argv) {
 	
-#ifdef  _DEBUG
-	std::string filename = "alice_decomprimido.bin";
-	filename = "thkero_e.bin";
-#else
+
 	std::cout << "Introduce path to FUMEN file: ";
-	std::string filename;// = "usatei.bin";
+	std::string filename;
 	if (argc <= 1) std::getline(std::cin, filename);
 	else filename = argv[1];
-	
-#endif
 
 	std::ifstream binarystream(filename, std::ifstream::binary);
 	
 	if (binarystream.is_open() == false) { 
-		std::cerr << "Could not process file\n";
-		if (binarystream.bad()) std::cout << "I/O error while reading\n";
-		else if (binarystream.eof()) std::cout << "End of file reached successfully\n";
-		else if (binarystream.fail()) std::cout << "Unknown error\n";
+		std::cerr << "Could not open file\n";
 		return 0; 
 	}
 
@@ -78,4 +70,6 @@ int main(int argc, char** argv) {
 		}
 		outstream << "====END-OF-BAR===\n\n";
 	}
+	std::cout << "Done!\n";
+	return 0;
 }
