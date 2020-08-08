@@ -19,4 +19,15 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="fumentypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="format14.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="swappable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
