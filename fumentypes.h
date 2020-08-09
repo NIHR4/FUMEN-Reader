@@ -6,9 +6,9 @@ namespace LE {
 		int drum;
 		float offset;
 		int padding[2];
-		short initial_item;
-		short point_distribution;
-		float drumroll_duration; //length of drum/ballon in ms
+		short initialItem;
+		short pointDistribution;
+		float drumrollDuration; //length of drum/ballon in ms
 	};
 
 	struct FumenBar {
